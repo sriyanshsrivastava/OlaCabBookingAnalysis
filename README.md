@@ -92,7 +92,7 @@ The primary objective of this project was to analyze a month-long dataset of cab
 - Showcases revenue analysis, highlighting customer contributions and payment preferences.
 
 ### Canceled Page
-![Canceled Page](snapshot/Cancel.png)
+![Canceled Page](snapshots/Cancel.png)
 - Examines reasons for ride cancellations and cancellation trends.
 
 ### Ratings Page
