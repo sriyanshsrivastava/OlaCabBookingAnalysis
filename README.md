@@ -80,23 +80,23 @@ The primary objective of this project was to analyze a month-long dataset of cab
 ## Screenshots
 
 ### Overall Page
-![Overall Page](./path-to-overall-screenshot.png)
+![Overall Page](./snapshot/Overall.png)
 - Displays key performance indicators (KPIs) and booking trends.
 
 ### Vehicle Page
-![Vehicle Page](./path-to-vehicle-screenshot.png)
+![Vehicle Page](./snapshot/Vehicle.png)
 - Provides a detailed breakdown of vehicle performance metrics.
 
 ### Revenue Page
-![Revenue Page](./path-to-revenue-screenshot.png)
+![Revenue Page](./snapshot/Revenue.png)
 - Showcases revenue analysis, highlighting customer contributions and payment preferences.
 
 ### Canceled Page
-![Canceled Page](./path-to-canceled-screenshot.png)
+![Canceled Page](./snapshot/Cancel.png)
 - Examines reasons for ride cancellations and cancellation trends.
 
 ### Ratings Page
-![Ratings Page](./path-to-ratings-screenshot.png)
+![Ratings Page](./snapshot/Ratings.png)
 - Highlights customer satisfaction trends and feedback analysis.
 
 ---
